@@ -1,5 +1,3 @@
-# silvermap
-Données publiques issues de la Silvermap
 # Silvermap Open Data
 
 Ce dépôt contient des jeux de données publiques sur les entreprises de la silver économie en France. Les données publiées sont extraites de la Silvermap, une base propriétaire recensant et caractérisant les acteurs économiques au service des seniors. Les fichiers accessibles ici sont diffusés en open data sous licence [Etalab 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence).
